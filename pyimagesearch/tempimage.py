@@ -16,3 +16,6 @@ class TempImage:
 		
                 # remove the file
 		os.remove(self.path)
+
+
+// whatup 
